@@ -1,0 +1,18 @@
+/* h1 {
+    width: min-content;
+} */
+
+/* PROBANDO EL MIN Y MAX -WIDTH */
+
+/* p {
+    min-width: 200px;
+    max-width: 900px;
+} */
+
+/* PROBANDO EL MIN Y MAX CONTENT */
+/* 
+p{
+    width: min-content;
+    height: max-content;
+    width: fit-content;
+} */
