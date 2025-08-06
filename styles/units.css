@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+}
+
+p {
+    font-size: 16px;
+    line-height: 2;
+    font-weight: 700;
+    border: 1px solid red;
+    padding: 10%;
+    background-color: aqua;
+    /* margin-inline-start: 20%; */
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+    border-radius: 20px;
+    width: min-content;
+    min-width: 700px;
+}
